@@ -1,0 +1,3 @@
+displayName = Fish Dev Tools
+author = stormytuna
+version = 0.1
